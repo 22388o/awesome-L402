@@ -62,7 +62,7 @@ The following list will provide you with detailed insights and resources to enha
 | [lsat-js](https://github.com/Tierion/lsat-js)  | javascript | A javascript library for working with L402 |
 | [l402-ts](https://github.com/sulusolutions/l402-ts)  | typescript | A client library for working with L402 |
 | [gol402](https://github.com/sulusolutions/gol402)  | golang | A client library for working with L402 |
-
+| [rust l402](https://github.com/AreaLayer/rust-l402) | rust | A client for working with L402 |
 
 <a name="projects" />
 
